@@ -3,7 +3,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">   
         <link rel="stylesheet" href="button_style.css">
-        <!-- <script src="rightclick_disable.js.download"></script> -->
+        <script src="rightclick_disable.js.download"></script>
         <title>vcet.ac.in/vcetattandance/Login.php</title>
         <link rel="icon" href="logo.png" type="image/gif" />
 <style type="text/css">
