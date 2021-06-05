@@ -4,7 +4,7 @@
         <link rel="stylesheet" href="button_style.css">
         <!-- <script src="rightclick_disable.js.download"></script> -->
         <title>vcet.ac.in/vcetattandance/Login.php</title>
-        <link rel="icon" href="images/logo.png" type="image/gif" />
+        <link rel="icon" href="logo.png" type="image/gif" />
 <style type="text/css">
 
 body {
